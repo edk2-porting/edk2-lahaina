@@ -1,2 +1,4 @@
 # edk2-lahaina
-提交不上去，所以。。。。。。。。再见。
+文件已经提交在 release。请启动Linux。
+
+https://github.com/edk2-porting/edk2-lahaina/releases/tag/main
